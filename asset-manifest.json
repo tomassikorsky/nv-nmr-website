@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nv-nmr-website/static/css/main.f720e7d2.css",
+    "main.js": "/nv-nmr-website/static/js/main.f4b08833.js",
+    "static/js/453.96bd0692.chunk.js": "/nv-nmr-website/static/js/453.96bd0692.chunk.js",
+    "index.html": "/nv-nmr-website/index.html",
+    "main.f720e7d2.css.map": "/nv-nmr-website/static/css/main.f720e7d2.css.map",
+    "main.f4b08833.js.map": "/nv-nmr-website/static/js/main.f4b08833.js.map",
+    "453.96bd0692.chunk.js.map": "/nv-nmr-website/static/js/453.96bd0692.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f720e7d2.css",
+    "static/js/main.f4b08833.js"
+  ]
+}
